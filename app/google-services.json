@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575263184622",
+    "firebase_url": "https://souvlakistreet20-master.firebaseio.com",
+    "project_id": "souvlakistreet20-master",
+    "storage_bucket": "souvlakistreet20-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575263184622:android:bfc99c0948a370e5",
+        "android_client_info": {
+          "package_name": "uk.co.apptouch.souvlakistreetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575263184622-c925aeto5sk33stkao568lem4a1h8a7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.apptouch.souvlakistreetapp",
+            "certificate_hash": "a70486f7a8de777b9f3d246462b57baef6be3f8c"
+          }
+        },
+        {
+          "client_id": "575263184622-4na1sstr2q6lmca604uhk752rrcsqob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmqZ5KYfI9YDar8vfe7G3k5FLuFMQEiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575263184622-4na1sstr2q6lmca604uhk752rrcsqob0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

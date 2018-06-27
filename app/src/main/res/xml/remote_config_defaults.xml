@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>frag_main_image_1</key>
+        <value>https://www.google.com/images/srpr/logo11w.png</value>
+    </entry>
+
+    <entry>
+        <key>frag_three_image_1</key>
+        <value>http://pngimg.com/uploads/google/google_PNG19634.png</value>
+    </entry>
+
+
+</defaultsMap>
+    <!-- END xml_defaults -->
+
